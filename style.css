@@ -108,6 +108,24 @@ nav a:hover {
     color: var(--primary);
 }
 
+.lang-switch {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.lang-switch a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    transition: color .3s;
+}
+
+.lang-switch a:hover,
+.lang-switch a.active {
+    color: var(--primary);
+}
+
 
 /* HERO */
 
