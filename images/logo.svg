@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 80">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffcc00"/>
+      <stop offset="100%" stop-color="#ff9900"/>
+    </linearGradient>
+  </defs>
+  <rect width="260" height="80" rx="20" fill="#111"/>
+  <text x="20" y="52" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="900" fill="url(#g)">PRO</text>
+  <text x="118" y="52" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#fff">JECT</text>
+</svg>
